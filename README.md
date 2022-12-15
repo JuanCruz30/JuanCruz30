@@ -1,3 +1,4 @@
+[![compu-2.jpg](https://i.postimg.cc/sXXsLkpf/compu-2.jpg)](https://postimg.cc/gwfCXBS1)
 <h1 align="center">Hi, I'm Juan Cruz Gonzalez</h1>
 <h3 align="center">I am a creative programmer</h3>
 
